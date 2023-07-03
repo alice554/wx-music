@@ -1,1 +1,0 @@
-<view><view>11111111111111</view><child-component vue-id="41e75994-1" title2="{{title2}}" lists="{{lists}}" data-event-opts="{{[['^getMsg',[['handleGetMsg']]]]}}" bind:getMsg="__e" bind:__l="__l"></child-component></view>

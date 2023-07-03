@@ -1,6 +1,0 @@
-{
-  "navigationBarTitleText": "uni-app",
-  "usingComponents": {
-    "child-component": "/pages/index/ChildComponent"
-  }
-}

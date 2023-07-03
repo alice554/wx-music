@@ -11,6 +11,8 @@ const app = new Vue({
   ...App
 })
 app.$mount()
+Vue.prototype.$imgSuffix = '?imageView&thumbnail=369x0&quality=75&tostatic=0';
+
 
 
 // #endif
